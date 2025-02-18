@@ -1,17 +1,17 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sanskar Sinha</h1>
-<h3 align="center">A passionate Android developer</h3>
+<h3 align="center">A passionate Data Engineer/ Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Tata Consultancy Services(TCS)**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently Upgrading **Data Engineer**
 
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 👯 I’m looking to collaborate on **Data Analyst**
 
-- 💬 Ask me about **Java, Android, Flutter**
+- 💬 Ask me about **Python, SQL, PowerBi**
 
-- 📫 How to reach me **sinhasanskarr03@gmail.com**
+- 📫 How to reach me **sinhasanskarr05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
