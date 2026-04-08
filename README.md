@@ -1,16 +1,16 @@
 ![1711868434909](https://github.com/user-attachments/assets/1fa35fda-40a2-4680-b37c-601905824649)
 
 <h1 align="center">Hi 👋, I'm Sanskar Sinha</h1>
-<h3 align="center">A passionate Data Engineer/ Analyst</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Tata Consultancy Services(TCS)**
 
-- 🌱 I’m currently Upgrading **Data Engineer**
+- 🌱 I’m currently Upgrading **DevOps Engineer**
 
-- 👯 I’m looking to collaborate on **Data Analyst**
+- 👯 I’m looking to collaborate on **Cloud Infrastructure **
 
-- 💬 Ask me about **Python, SQL, PowerBi**
+- 💬 Ask me about **AWS, Docker, Kubernetes & Terraform**
 
 - 📫 How to reach me **sinhasanskarr05@gmail.com**
 
