@@ -1,3 +1,5 @@
+![DevOps Best Practices for Business Strategy Success](https://github.com/user-attachments/assets/da6a49b5-2e81-4e9b-8276-65d061a1faa1)
+
 <h1 align="center">Hi 👋, I'm Sanskar Sinha</h1>
 <h3 align="center">A passionate DevOps Engineer @ TCS</h3>
 
